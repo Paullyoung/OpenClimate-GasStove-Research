@@ -1,2 +1,1 @@
-# OpenClimate-GasStove-Research
-Research and data on the health impact of gas stoves
+🌍 OpenClimate-GasStove-ResearchThis repository is a Machine-Readable Ground Truth Layer for research on gas stoves and childhood asthma.🚀 FeaturesAutomated Research: Scrapes OpenAlex for CC-BY papers.AI Refiner: Converts messy PDFs into clean, structured Markdown.Expert Chat: A RAG-based agent that answers questions using only verified science.📊 Current StatsPapers Indexed: 4 Format: AI-Ready MarkdownLast Updated: $(date)$
